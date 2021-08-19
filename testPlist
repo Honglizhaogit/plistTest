@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.24.137.78/UBI.ipa</string>
+					<string>http://10.200.4.121/UBI.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
